@@ -1,0 +1,124 @@
+<!-------------------------------------Happy Clients Start-------------------------------------->
+<section class="happyclients" id="happyclients">
+  <div class="container">
+    <div class="container headings text-center">
+      <h1 class="text-center font-weight-bold">OUR HAPPY CLIENTS</h1>
+      <!-- <p class="text-capitalize pt-1">Our Satisfied Customer Says</p> -->
+    </div>
+    <br>
+    <div class="row row1">
+        <div class="col-lg-2 col-md-2 col-4">
+        <img src="images/1.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/2.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/3.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/4.jpg">
+
+        </div>
+           <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/5.jpg">
+
+        </div>
+           <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/6.jpg">
+
+        </div>
+</div>
+
+     <div class="row row2">
+        <div class="col-lg-2 col-md-2 col-4">
+        <img src="images/7.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/8.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/9.jpg">
+
+        </div>
+        <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/10.jpg">
+
+        </div>
+           <div class="col-lg-2 col-md-2 col-4">
+            <img src="images/12.jpg">
+
+        </div>
+           <div class="col-lg-2 col-md-2 col-4">
+            <img src="BFSI.jpg">
+
+        </div>
+</div>
+</div>
+  
+</section>
+
+<!-------------------------------------Happy clients End-------------------------------------->
+
+
+
+
+
+
+
+slideOutUp
+
+ <div class="industry-type" style="background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),url(BFSI.jpg);"></div>
+
+ https://www.bestjquery.com/lab/hover-effects/
+
+
+IVRS Development
+ In telephony interactive voice response or IVR is phone technology that allows a computer to detect voice and tone using a normal phone call.
+
+ The IVR system can respond to caller with prerecorded or dynamic generated audio to further direct callers on how to proceed.
+
+ IVRS Software systems can be used to control almost any function where the interface can be broken to a series of simple menu choices.
+
+ Once constructed IVRS Software systems generally scale well to handle large call volumes.
+
+
+
+ Features of Interactive Voice Response System
+ With IVRS Software systems, multitasking and multi-threading facility leading to simultaneous handling of 4 analog channels or 30 digital channels or more channels
+
+ Detecting an incoming ring and automatically establishing connection in response to the ring signal.
+
+ Capable of working round the clock throughout the year.
+
+ Multiple language support with user configurable channel specific language.
+
+ Work with all type of exchanges on voice lines or trunk lines with any telecom operator of Land-line Network and cellular phone network.
+
+ Provides call statistics and customized report.
+
+ ODBC support for accessing all kind of standard database.
+
+
+
+ CT/ IVRS Solution Development
+ Petroleum Booking and Distribution (Indian Oil, HPCL)
+
+ Payment Gateway Interface System (Bill Desk)
+
+ University Information System (Central University)
+
+ Appointment Booking System for Doctors (L V Prasad Eye Institute)
+
+ Cinema ticket Booking system (Prasad I -MAX) For downloading pdf
+
+ Order Booking System(Indian Immunologicals Limited)
+
+ Information system for farmers (I Kisan)
+
+ Product Promotion Contests (Godrej)
